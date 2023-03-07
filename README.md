@@ -1,2 +1,14 @@
 Hello my name is Saidmukhammad I am 14 years old
-<img>![Без имени-1](https://user-images.githubusercontent.com/123629022/214865199-a869e7b0-bebb-4a93-a5be-d2d0f63afdba.png)<img/>
+<h1 align="center">Hello i am Saidmuhammad</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Computer science student, IT news writer from Uzbekistan </h3>
+
+
+
+<h1 >About me 🚀 </a></h1>
+
+- I love ☕️;
+
+
+- :mailbox:How to reach me: kamronu33@icloud.com
+- 📸 Instagram: kamron.usmv
