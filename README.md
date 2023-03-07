@@ -3,7 +3,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student, IT news writer from Uzbekistan </h3>
 
-
+<button><a>https://www.instagram.com/zak1chcoder/<a/><button/>
 
 <h1 >About me 🚀 </a></h1>
 
