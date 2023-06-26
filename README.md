@@ -1,15 +1,14 @@
-<img src="https://user-images.githubusercontent.com/123629022/223464458-6e576be5-e861-471c-acba-23db7b9fd598.png"/>
-<h1 align="center">Hello i am Saidmuhammad</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student, IT news writer from Uzbekistan </h3>
+# 💫 About Me:
+🔭 I’m currently working on my project<br>👯 I am looking for cooperation in the field of IT<br>🤝 I don't need help yet<br>🌱 I’m currently learning on Frontent Developer<br>💬 Ask me about anything related to FrontEnd<br>⚡️ Fun fact: I sit in front of my laptop for more than half of the day. 
 
-<button><a>https://www.instagram.com/zak1chcoder/<a/><button/>
 
-<h1 >About me 🚀 </a></h1>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/uz.jony_frest) 
 
-- I love games;
-- I I am 14 years old;
-- I live in Uzbekistan;
-- I live in Uzbekistan in the city of Tashkent
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 
-- 📸 Instagram: zak1chcoder
+---
+[![]([https://visitcount.itsvg.in/api?id=JonyFrest&icon=2&color=0)](https://visitcount.itsvg.in](https://www.instagram.com/__sa1dovvv__/))
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
